@@ -98,7 +98,5 @@ bt17.place(x=118, y=208)
 bt18 = Button(frame_corpo, command = Calcular, text="=", width=5, height=2, bg=cor5, fg=cor2, font=("Ivy 13 bold"), relief=RAISED, overrelief=RIDGE)
 bt18.place(x=177, y=208)
 
-# Chamando o metodo!
-
 # Metodo para manter a janela sempre aberta para uso!
 janela.mainloop()
