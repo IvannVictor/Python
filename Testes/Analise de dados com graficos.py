@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1ª Import os dados da tabela
-tabela = pd.read_csv(r'telecom.csv')
+tabela = pd.read_csv(r'planilha.csv')
 
 # 2ª Analizar os dados da tabela
 # Remover dados inuteis da tabela
